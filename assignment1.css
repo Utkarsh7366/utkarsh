@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.col{
+    color: white;
+    background-color: rgb(60, 148, 250);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+.gap{
+    padding-left: 20px;
+}
+.hh{
+    color: aqua;
+}
+#sec{
+    margin-top: 20px;
+    margin-top: 7px;
+}
+#pp{
+   margin-bottom: 20px;
+}
+.im{
+    margin-top: 30px;
+    padding: 40px;
+    margin-bottom: 30px;
+    background-color:lightsteelblue;
+}
+.imge{
+    margin-top: 20px;
+}
+.mar{
+    margin-bottom: 25px;
+}
+#clr{
+    color: white;
+    background-color:rgb(60, 148, 250)
+    
+}
+#ppp{
+    padding-top: 20px;
+}
